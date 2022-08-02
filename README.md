@@ -14,7 +14,7 @@ The idea of the WanMine team is to recreate a realistic fauna in the game and ad
 
 ## Documentation
 
-[Wiki](https://wanmine.github.io/WanWild/)
+our [Wiki](https://wanmine.github.io/WanWild/) is working in progress
 
 
 ## Features
