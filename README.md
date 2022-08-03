@@ -10,7 +10,7 @@ The idea of the WanMine team is to recreate a realistic fauna in the game and ad
 - [@FedeRex](https://github.com/FedeRex03) - Model & Texture
 - [@MattiaMrk](https://github.com/MrkMattia) - Model & Texture
 - [@DiamantinoOp](https://github.com/Diamantino-Op) - Implementation
-
+- [@Samu30706](https://github.com/Samu30706) - WiKi Maker
 
 ## Documentation
 
